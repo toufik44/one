@@ -1,0 +1,7 @@
+<suite name="Regression TestSuite">
+<test name="Application Test">
+	<classes>
+		<class name="com.control.cucumberWeb.TestNG_Asserts1"></class>
+	</classes>
+</test>
+</suite>
