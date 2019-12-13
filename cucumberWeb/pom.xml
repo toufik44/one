@@ -20,8 +20,7 @@
 				<configuration>
 					<suiteXmlFiles>
 						<suiteXmlFile>src/test/resources/testNgSuite.xml</suiteXmlFile>
-						<suiteXmlFile>src/test/resources/testNgSuiteRegression.xml</suiteXmlFile>
-						
+						<suiteXmlFile>src/test/resources/testNgSuiteRegression.xml</suiteXmlFile>			
 					</suiteXmlFiles>
 					<testFailureIgnore>true</testFailureIgnore>
 				</configuration>
